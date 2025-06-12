@@ -47,6 +47,44 @@ A fully functional, file-based banking system built in C++. It supports user aut
     *) C = Client
 
 
+---
+
+## 📷 Screenshots
+<details>
+  <summary>📸 Click to view screenshots</summary>
+
+  ### 🔐 Login Page  
+  ![Login Screenshot](assets\screenshots\Login\login.png)
+
+  ### 🏠 Main Menu  
+  ![Main Menu](assets\screenshots\MainMenu\MainMenu.png)
+
+   ### 🧾 Transaction Menu  
+  ![Transaction Menu](assets\screenshots\TransactionMenu\TransactionMenu.png)
+
+  ### 🛠️ Manage Users Menu  
+  ![Manage Users Menu](assets\screenshots\ManageUsersMenu\ManageUserScreen.png)
+//
+  ### 💰 Deposit Page  
+  ![Deposit Page](screenshots/deposit.png)
+
+  ### 💸 Withdraw Page  
+  ![Withdraw Page](screenshots/withdraw.png)
+
+  ### 🔁 Transfer Money  
+  ![Transfer Screen](screenshots/transfer.png)
+
+
+
+  ### ➕ Create New Account  
+  ![Create Account](screenshots/create_account.png)
+
+  ### 🗑️ Delete Account  
+  ![Delete Account](screenshots/delete_account.png)
+
+</details>
+
+
 
 
 
