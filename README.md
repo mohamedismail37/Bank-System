@@ -98,9 +98,6 @@ A fully functional, file-based banking system built in C++. It supports user aut
   #### ➕ Add New User  
   ![Add User](assets/screenshots/ManageUsersMenu/AddingUser.png)
 
-  #### ✏️ Update User  
-  ![Update User](assets/screenshots/ManageUsersMenu/UpdateUser.png)
-
   #### 📋 List All Users  
   ![List Users](assets/screenshots/ManageUsersMenu/UsersList.png)
 
