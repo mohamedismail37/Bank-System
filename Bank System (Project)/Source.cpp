@@ -1222,3 +1222,11 @@ int main()
 
 	return 0;
 }
+
+// From smartest things that Dr.Hadhoud done is to make the 
+// CurrentUser is a global variable :)
+// Otherwise nearly the same code 
+// Except his code is more cleaner and his arrangment is better than mine;
+// And alhamdu el Allah I Understood the bitwise operator
+// and it's really a magic -> how it can make this high intilgent type of calculations
+// Alhamdu le Allah
