@@ -33,18 +33,18 @@ A fully functional, file-based banking system built in C++. It supports user aut
                             Login----------------------------------------------------------------------------------------<
                               |                                                                                          |
                           Main Menu                                                                                      |
-    ---------------------------------------------------------------------------------------------------------------      |
-    |         |        |          |        |            |                                   |                     |      |
-Show C List  AddC    DeleteC   UpdateC    FindC    Transaction Menu                     Manage Users            Logout---^
-                                                  /     |       \                           |
-                                          Deposit    Withdraw   Total Balances              |-List Users
-                                                                                            |-Add User
-                                                                                            |-Delete User
-                                                                                            |-Update User
-                                                                                            |-Find User
+         -----------------------------------------------------------------------------------------------------------     |
+         |         |        |          |        |            |                                   |                 |     |
+    Show C List  AddC    DeleteC   UpdateC    FindC    Transaction Menu                     Manage Users        Logout---^
+                                                       /     |       \                           |
+                                               Deposit    Withdraw   Total Balances              |-List Users
+                                                                                                 |-Add User
+                                                                                                 |-Delete User
+                                                                                                 |-Update User
+                                                                                                 |-Find User
+   
 
-
-*) C = Client
+    *) C = Client
 
 
 
