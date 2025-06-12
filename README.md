@@ -54,7 +54,7 @@ A fully functional, file-based banking system built in C++. It supports user aut
   <summary>📸 Click to view screenshots</summary>
 
   ### 🔐 Login Page  
-  ![Login Screenshot](assets\screenshots\Login\login.png)
+  ![Login Screenshot](assets/screenshots/Login/login.png)
 
   ### 🏠 Main Menu  
   ![Main Menu](assets\screenshots\MainMenu\MainMenu.png)
