@@ -54,33 +54,55 @@ A fully functional, file-based banking system built in C++. It supports user aut
   <summary>📸 Click to view screenshots</summary>
 
   ### 🔐 Login Page  
-  ![Login Screenshot](assets/screenshots/Login/login.png)
+  ![Login Screenshot](assets/screenshots/Login/Login.png)
+
+  ---
 
   ### 🏠 Main Menu  
   ![Main Menu](assets/screenshots/MainMenu/MainMenu.png)
 
+  #### ➕ Add New Client  
+  ![Add Client](assets/screenshots/MainMenu/AddNewClient.png)
+
+  #### 🔍 Find Client  
+  ![Find Client](assets/screenshots/MainMenu/FindClient.png)
+
+  #### ✏️ Update Client  
+  ![Update Client](assets/screenshots/MainMenu/UpdateClient.png)
+
+  #### 🗑️ Delete Client  
+  ![Delete Client](assets/screenshots/MainMenu/DeleteClient.png)
+
+  #### 📋 List All Clients  
+  ![List Clients](assets/screenshots/MainMenu/ShowClientList.png)
+
+---
+
   ### 🧾 Transaction Menu  
   ![Transaction Menu](assets/screenshots/TransactionMenu/TransactionMenu.png)
 
-  ### 🛠️ Manage Users Menu  
-  ![Manage Users Menu](assets/screenshots/ManageUsersMenu/ManageUserScreen.png)
-
   ### 💰 Deposit Page  
-  ![Deposit Page](screenshots/deposit.png)
+  ![Deposit Page](assets/screenshots/TransactionMenu/Transactions_DepositScreen.png)
 
   ### 💸 Withdraw Page  
-  ![Withdraw Page](screenshots/withdraw.png)
+  ![Withdraw Page](assets/screenshots/TransactionMenu/Transactions_WithdrawScreen.png)
 
-  ### 🔁 Transfer Money  
-  ![Transfer Screen](screenshots/transfer.png)
+  ### ⚖️ Total Balances  
+  ![Transfer Screen](assets/screenshots/TransactionMenu/TotalBalances.png)
 
+---
 
+  ### 🛠️ Manage Users Menu  
+  ![Manage Users Menu](assets/screenshots/ManageUsersMenu/ManageUsersScreen.png)
 
-  ### ➕ Create New Account  
-  ![Create Account](screenshots/create_account.png)
+  #### ➕ Add New User  
+  ![Add User](assets/screenshots/ManageUsersMenu/AddingUser.png)
 
-  ### 🗑️ Delete Account  
-  ![Delete Account](screenshots/delete_account.png)
+  #### ✏️ Update User  
+  ![Update User](assets/screenshots/ManageUsersMenu/UpdateUser.png)
+
+  #### 📋 List All Users  
+  ![List Users](assets/screenshots/ManageUsersMenu/UsersList.png)
 
 </details>
 
