@@ -57,14 +57,14 @@ A fully functional, file-based banking system built in C++. It supports user aut
   ![Login Screenshot](assets/screenshots/Login/login.png)
 
   ### 🏠 Main Menu  
-  ![Main Menu](assets\screenshots\MainMenu\MainMenu.png)
+  ![Main Menu](assets/screenshots/MainMenu/MainMenu.png)
 
-   ### 🧾 Transaction Menu  
-  ![Transaction Menu](assets\screenshots\TransactionMenu\TransactionMenu.png)
+  ### 🧾 Transaction Menu  
+  ![Transaction Menu](assets/screenshots/TransactionMenu/TransactionMenu.png)
 
   ### 🛠️ Manage Users Menu  
-  ![Manage Users Menu](assets\screenshots\ManageUsersMenu\ManageUserScreen.png)
-//
+  ![Manage Users Menu](assets/screenshots/ManageUsersMenu/ManageUserScreen.png)
+
   ### 💰 Deposit Page  
   ![Deposit Page](screenshots/deposit.png)
 
